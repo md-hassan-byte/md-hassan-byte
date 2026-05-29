@@ -1,4 +1,7 @@
 ## Hi there 👋
+im currently working on java script
+im currently learning full stack
+
 
 <!--
 **md-hassan-byte/md-hassan-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
